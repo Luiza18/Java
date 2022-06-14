@@ -1,2 +1,2 @@
-# Evaluation JAVA
+# Activities Java
 
